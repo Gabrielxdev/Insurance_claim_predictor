@@ -1,0 +1,7 @@
+# Byte-compiled / optimized / dll files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.pkl
+*.xlsx
